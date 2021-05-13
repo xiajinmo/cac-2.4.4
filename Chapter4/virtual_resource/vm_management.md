@@ -843,7 +843,7 @@ HYPERX云管理平台支持用户对虚拟机进行管理，支持的功能如�
 
 ③ 将会弹出”加入网络”的操作提示框，列表显示可用的网络，选择新增的网络后，点击“确定”按钮，即可将选定的网络添加到虚拟机中：
 
-<img src="vm_management.assets/image-20210121165816270.png" alt="image-20210121165816270" style="zoom:50%;" />
+<img src="vm_management.assets/image-20210513160435680.png" alt="image-20210513160435680" style="zoom:50%;" />
 
 #### 编辑网络主IP
 
