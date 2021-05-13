@@ -33,7 +33,7 @@ HYPERX云管理平台支持用户对磁盘备份进行管理，支持的功能�
 
 ② 将会弹出“创建磁盘备份”的操作提示框，选择需要备份的磁盘并填写磁盘的名称后，点击“确定”按钮，即可为选定的磁盘创建备份：
 
-<img src="backup_management.assets/image-20201221185743338.png" alt="image-20201221185743338" style="zoom:50%;" />
+<img src="backup_management.assets/image-20210513114624366.png" alt="image-20210513114624366" style="zoom:50%;" />
 
 > [!WARNING]
 >
