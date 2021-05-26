@@ -61,7 +61,7 @@ HYPERX云管理平台支持用户配置个人设置，支持的功能如下：
 
 ① 点击云平台右上角个人头像(用户名)处的菜单，打开“夜间模式”：
 
-<img src="personal_settings.assets/image-20210328225908750.png" alt="image-20210328225908750" style="zoom:50%;" />
+<img src="personal_settings.assets/image-20210526182922535.png" alt="image-20210526182922535" style="zoom:50%;" />
 
 ② 即可进入云平台的夜间模式：
 
