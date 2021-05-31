@@ -48,7 +48,7 @@ HYPERX云管理平台支持用户对虚拟磁盘进行管理，支持的功能�
 
 ② 将会弹出“创建虚拟磁盘”的操作提示框，可以填写虚拟磁盘的相关信息，填写相关信息后，点击“确定”按钮，即可创建数据虚拟磁盘：
 
-<img src="volume_management.assets/image-20201221182219515.png" alt="image-20201221182219515" style="zoom:50%;" />
+<img src="volume_management.assets/image-20210531180013165.png" alt="image-20210531180013165" style="zoom:50%;" />
 
 其中，磁盘规格分为自定义规格和定量规格两种：
 
