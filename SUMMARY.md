@@ -59,8 +59,10 @@
         * [5.2.2.角色模板管理](Chapter5/role/role_template.md)
     * [5.3.用户管理](Chapter5/user_management.md)
     * [5.4.配额管理](Chapter5/quota_management.md)
-    * [5.5.资源标签管理](Chapter5/tags_management.md)
-* 6.运营中心
+    * 5.5.资源标签管理
+        * [5.5.1.私有云标签管理](Chapter5/tags/tags_management.md)
+        * [5.5.2.阿里云标签管理](Chapter5/tags/gyy_tags_management.md)
+    
     * [6.1.资源分布图](Chapter6/resource_distribution.md)
     * [6.2.费用统计](Chapter6/total_expenses.md)
     * [6.3.用户报表](Chapter6/user_report.md)
@@ -97,4 +99,19 @@
 * 8.其他功能
     * [8.1.个人设置](Chapter8/personal_settings.md)
     * [8.2.工单](Chapter8/tickets.md)
+
+- 9.公有云
+  - 9.1.虚拟资源管理
+    - 9.1.1虚拟机管理
+    - 9.1.2虚拟磁盘管理
+    - 9.1.3.磁盘快照
+    - 9.1.4.对象存储(OSS)
+    - 9.1.5.数据库
+  - 9.2.网络管理
+    - 9.2.1.VPC
+    - 9.2.2.IP子网
+    - 9.2.3.安全组
+    - 9.2.4.弹性公网IP
+  - [9.1.云账号](Chapter9/cloud_account.md)
+  - [9.2.虚拟机](Chapter9/cloud_vm.md)
 
